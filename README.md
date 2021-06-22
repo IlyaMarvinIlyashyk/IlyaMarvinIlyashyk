@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm Ilya <h1> 
+<h1>👋 Hi! I'm Ilya </h1> 
   
 <p> I'm a stage/ screen Actor turned Web-Developer from Toronto, Canada. I use my endless passion for coding and design to build and develop web content that is user-friendly, intuitive and most importantly, accessible to all. </p>
 
